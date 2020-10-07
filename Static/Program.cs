@@ -7,7 +7,6 @@ namespace Static
     static void Main(string[] args)
     {
       Console.WriteLine("Hello " + args[0]);
-''
 
       Enemy e1 = new Enemy();
       Enemy e2 = new Enemy();
